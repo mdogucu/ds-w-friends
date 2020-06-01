@@ -1,0 +1,10 @@
+
+```{r message = FALSE, echo = FALSE, warning = FALSE, message=FALSE}
+library(tidyverse)
+library(fivethirtyeight)
+library(openintro)
+candy_rankings <- candy_rankings
+babies <- babies
+```
+
+

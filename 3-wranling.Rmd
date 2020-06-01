@@ -1,0 +1,7 @@
+
+```{r echo = FALSE, message=FALSE, warning = FALSE}
+library(tidyverse)
+library(gapminder)
+titanic <- titanic::titanic_train
+original_titanic <- titanic::titanic_train
+```

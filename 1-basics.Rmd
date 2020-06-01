@@ -1,0 +1,34 @@
+## R code vs. Text
+
+Add any text below this line
+
+
+
+
+## Defining Objects
+
+
+
+
+
+## Errors
+
+
+
+
+
+
+## Getting to Know the Data
+
+Run the code chunk below. 
+
+<!--Note that normally this code will be at the top of the document-->
+
+```{r message = FALSE}
+library(tidyverse)
+library(fivethirtyeight)
+candy_rankings <- candy_rankings
+```
+
+Add code chunk below and then glimpse at the data!
+
